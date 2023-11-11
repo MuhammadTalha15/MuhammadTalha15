@@ -1,7 +1,8 @@
 -  Hi, I’m Muhammad Talha Siddiqui.
+-  I'm form Islamabad, Pakistan.
+-  I'm an Intermediate Computer Science Student.
 -  I’m Interested in Computer Science, Web Development, Artificial Inteligence.
--  I’m currently learning Javascript and Python
--  My facebook account https://www.facebook.com/profile.php?id=100092518021987
+-  I’m currently learning Javascript and Python.
 
 
 <!---
