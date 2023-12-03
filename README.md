@@ -2,7 +2,7 @@
 -  I'm form Islamabad, Pakistan.
 -  I'm an Intermediate Computer Science Student.
 -  I’m Interested in Computer Science, Web Development, Artificial Inteligence.
--  I’m currently learning Javascript and Python.
+-  I’m currently learning Javascript, Python and SQL.
 
 
 <!---
