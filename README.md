@@ -13,8 +13,8 @@ Passionate about transforming ideas into elegant and functional code, I am an In
 - How to reach me **talhaz5518@gmail.com**
 
 <img align="right"
-src="https://user-images.githubusercontent.com/115187902/230700872-d5f44b85-56c7-4e27-80a4-6e2db901e60c.gif"
-alt="muhammadtalha15" height="250" width="420"/>
+src="Pictures/ci.png"
+alt="muhammadtalha15" height="390" width="530"/>
 
 <h3 align="left">
 Connect with Me on Social Media:
