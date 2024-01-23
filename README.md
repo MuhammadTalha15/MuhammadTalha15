@@ -14,7 +14,7 @@ Passionate about transforming ideas into elegant and functional code, I am an In
 
 <img align="right"
 src="Pictures/ci.png"
-alt="muhammadtalha15" height="390" width="530"/>
+alt="muhammadtalha15" height="370" width="520"/>
 
 <h3 align="left">
 Connect with Me on Social Media:
