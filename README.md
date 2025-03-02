@@ -174,10 +174,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/MuhammadTalha15/MuhammadTalha15/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img height="525" src="./Pictures/footer.jpg"  />
 </div>
