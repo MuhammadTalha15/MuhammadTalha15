@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="330" src="./Pictures/hero.gif"  />
+  <img height="330" src="https://user-images.githubusercontent.com/86270481/214122618-1bf43327-cdef-456e-81fe-fc71a9070c07.gif"  />
 </div>
 
 ###
@@ -161,7 +161,7 @@
 ###
 
 <div align="center">
-  <img height="412" src="./Pictures/mid.gif"  />
+  <img height="412" src="https://i.pinimg.com/originals/60/a5/85/60a58511e5c70a418ac743f7df8134fa.gif"  />
 </div>
 
 ###
@@ -179,7 +179,13 @@
 ###
 
 <div align="center">
-  <img height="525" src="./Pictures/footer.jpg"  />
+  <img height="525" src="https://w0.peakpx.com/wallpaper/63/556/HD-wallpaper-japanese-vibes-ideas-in-2022-scenery-japan-aesthetic-anime-scenery.jpg"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 
 ###
