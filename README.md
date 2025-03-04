@@ -175,7 +175,7 @@
 ###
 
 <div align="center">
-  <img height="412" src="https://i.pinimg.com/originals/60/a5/85/60a58511e5c70a418ac743f7df8134fa.gif"  />
+  <img height="412" src="./Pictures/mid.gif"  />
 </div>
 
 ###
