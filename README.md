@@ -101,13 +101,13 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" title="Express JS"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" title="Django"  />
+<!--   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" title="Django"  /> -->
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" title="Next JS"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" title=".NET"  />
+<!--   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" title=".NET"  /> -->
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" title="Firebase"  />
+<!--   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" title="Firebase"  /> -->
 </div>
 
 ###
