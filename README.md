@@ -177,18 +177,12 @@
 
 ###
 
-<div align="center">
-  <img height="412" src="./Pictures/mid.gif"  />
-</div>
-
-###
-
 <img align="center" src="https://raw.githubusercontent.com/MuhammadTalha15/MuhammadTalha15/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img height="525" src="https://w0.peakpx.com/wallpaper/63/556/HD-wallpaper-japanese-vibes-ideas-in-2022-scenery-japan-aesthetic-anime-scenery.jpg"  />
+  <img height="412" src="./Pictures/mid.gif"  />
 </div>
 
 ###
