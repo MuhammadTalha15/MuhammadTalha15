@@ -90,6 +90,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" title="Tailwind CSS"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" title="Next JS"  />
 </div>
 
@@ -105,11 +107,11 @@
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" title="Express JS"  />
   <img width="12" />
 <!--   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" title="Django"  /> -->
-  <img width="12" />
+<!--   <img width="12" /> -->
   <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" title="Next JS"  />
   <img width="12" />
 <!--   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" title=".NET"  /> -->
-  <img width="12" />
+<!--   <img width="12" /> -->
 <!--   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" title="Firebase"  /> -->
 </div>
 
