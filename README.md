@@ -14,6 +14,8 @@
 
 [![Muhammad Talha profile views](https://u8views.com/api/v1/github/profiles/141347189/views/day-week-month-total-count.svg)](https://u8views.com/github/MuhammadTalha15)
 
+![Visitor Count](https://profile-counter.glitch.me/{MuhammadTalha15}/count.svg)
+
 ###
 
 <h2 align="left">About Me</h2>
