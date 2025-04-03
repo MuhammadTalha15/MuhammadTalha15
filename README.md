@@ -12,7 +12,7 @@
 
 ###
 
-<div align-item="center">
+<div align="center">
 [![Muhammad Talha profile views](https://u8views.com/api/v1/github/profiles/141347189/views/day-week-month-total-count.svg)](https://u8views.com/github/MuhammadTalha15)
 </div>
 
