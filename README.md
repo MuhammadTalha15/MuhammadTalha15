@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="800px" src="https://i.pinimg.com/originals/bd/56/5d/bd565dcc0a556add0b0a0ed6b26d686e.gif"  />
+  <img width="800px" src="https://i.pinimg.com/originals/1c/61/14/1c61140e5941e12f63f22877d627c38e.gif"  />
 </div>
 
 ###
 
-<h1 align="center">Hello, I'm Muhammad Talha</h1>
+<h1 align="left">Hi, I am Muhammad Talha</h1>
 
 ###
 
@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I’m an Intermediate Computer Science student passionate about turning ideas into elegant, functional code. My GitHub features a range of projects—from beginner to intermediate—demonstrating my commitment to growth and craftsmanship. With a strong foundation and a curiosity for emerging technologies, I continuously explore new languages and concepts. I'm driven to contribute meaningfully to the tech world and evolve into a skilled Computer Scientist.</p>
+<p align="left">A Cybersecurity student specializing in System Security with a strong foundation in Full-Stack development. I enjoy building secure, efficient, and scalable applications while understanding how systems work at both the software and hardware levels. My skill set includes JavaScript, Python, C++, Shell Scripting, Linux, React, Node.js, Web Application Security and secure coding practices. I am passionate about learning how attacks work so I can design better defenses, and I continuously experiment, build, and document projects to sharpen my skills in cybersecurity and Secure Software development.</p>
 
 ###
 
@@ -48,34 +48,19 @@
 
 ###
 
-<h3 align="center">💻 Technologies and Tools I am working with:</h3>
+<h3 align="center">Technologies and Tools I am working with:</h3>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,mongodb,nextjs,firebase,vercel" /><br>
-  <img src="https://skillicons.dev/icons?i=sass,figma,ubuntu,vscode,git,bash,cpp,python" />
+  <img src="https://skillicons.dev/icons?i=javascript,python,cpp,c,bash,git,kali,ubuntu,linux,windows" /><br>
+  <!-- <img src="https://skillicons.dev/icons?i=sass,figma,ubuntu,vscode,git,bash,cpp,python" /><br> -->
+  <img src="https://skillicons.dev/icons?i=react,vue,express,next,mongodb,sass,figma,vscode,vercel,firebase" />
 </div>
 
 ###
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MuhammadTalha15&theme=onedark&no-frame=false&no-bg=false&margin-w=4" height="100" alt="Tropies" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadTalha15&theme=react&hide_border=true&include_all_commits=false&count_private=false" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadTalha15&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" alt="Languages"  />
-
-  <br></br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MuhammadTalha15&radius=5&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-### Random Dev Quote
 <div align="center">
   <img  width="600" height="200px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="streak graph"  />
 </div>
@@ -83,13 +68,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MuhammadTalha15/MuhammadTalha15/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
-<div align="center">
-  <img width="800px" src="./Pictures/mid.gif"  />
+  <img width="800px" src="./Pictures/footer.jpg"  />
 </div>
 
 ###
