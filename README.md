@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,python,cpp,c,bash,git,kali,ubuntu,linux,windows" /><br>
+  <img src="https://skillicons.dev/icons?i=javascript,python,cpp,c,bash,git,kali,ubuntu,linux,debian,windows" /><br>
   <!-- <img src="https://skillicons.dev/icons?i=sass,figma,ubuntu,vscode,git,bash,cpp,python" /><br> -->
   <img src="https://skillicons.dev/icons?i=react,vue,express,next,mongodb,sass,figma,vscode,vercel,firebase" />
 </div>
