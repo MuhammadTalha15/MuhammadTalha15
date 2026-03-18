@@ -1,8 +1,9 @@
 <div align="center">
-  <img width="1200px" src="./Pictures/black.jpg"  />
+  <img width="1210px" src="./Pictures/black.jpg"  />
 </div>
 
 ###
+
 
 <img width="100px" src="./Pictures/Cys Badge.png"  />
 <h1 align="left">Muhammad Talha Siddiqui</h1>
