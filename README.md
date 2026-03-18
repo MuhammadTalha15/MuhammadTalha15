@@ -1,10 +1,11 @@
 <div align="center">
-  <img width="800px" src="https://i.pinimg.com/originals/1c/61/14/1c61140e5941e12f63f22877d627c38e.gif"  />
+  <img width="800px" src="./Pictures/black.jpg"  />
 </div>
 
 ###
 
-<h1 align="left">Hi, I am Muhammad Talha</h1>
+<img width="100px" src="./Pictures/Cys Badge.png"  />
+<h1 align="left">Muhammad Talha Siddiqui</h1>
 
 ###
 
@@ -16,10 +17,6 @@
 <!-- <div align="center">
   <a href="https://u8views.com/github/MuhammadTalha15"><img src="https://u8views.com/api/v1/github/profiles/141347189/views/day-week-month-total-count.svg"></a>
 </div> -->
-
-###
-
-<h3 align="left">About Me</h3>
 
 ###
 
@@ -56,19 +53,6 @@
   <img src="https://skillicons.dev/icons?i=javascript,python,cpp,c,bash,git,kali,ubuntu,linux,debian,windows" /><br>
   <!-- <img src="https://skillicons.dev/icons?i=sass,figma,ubuntu,vscode,git,bash,cpp,python" /><br> -->
   <img src="https://skillicons.dev/icons?i=react,vue,express,next,mongodb,sass,figma,vscode,vercel,firebase" />
-</div>
-
-###
-
-
-<div align="center">
-  <img  width="600" height="200px" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img width="800px" src="./Pictures/footer.jpg"  />
 </div>
 
 ###
